@@ -8,7 +8,8 @@ Click on groups of adjacent squares of the same color to remove them and score p
 
 ## Project Structure
 
-<pre lang="markdown"> ## Project Structure ``` same_game/ ├── img/ # Contains image assets used in the GUI ├── main.py # Launches the game ├── modele.py # Contains game logic (model) ├── vue.py # Manages the graphical interface (view) ├── testercode.py # Optional test/debugging script ``` </pre>
+<pre lang="markdown"> ## Project Structure ``` same_game/ 
+├── img/ # Contains image assets used in the GUI ├── main.py # Launches the game ├── modele.py # Contains game logic (model) ├── vue.py # Manages the graphical interface (view) ├── testercode.py # Optional test/debugging script ``` </pre>
 
 
 ## Features
