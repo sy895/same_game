@@ -6,13 +6,15 @@ A classic puzzle game implemented in Python, inspired by the original Same Game.
 
 Click on groups of adjacent squares of the same color to remove them and score points. The bigger the group, the higher your score. When no moves are left, the game ends.
 
+
 ## Project Structure
 
+- `img/` — Contains image assets used in the GUI  
+- `main.py` — Launches the game  
+- `modele.py` — Contains game logic (model)  
+- `vue.py` — Manages the graphical interface (view)  
+- `testercode.py` — Optional test/debugging script  
 
-
-
-
-same_game/ ├── img/ # Contains image assets used in the GUI ├── main.py # Launches the game ├── modele.py # Contains game logic (model) ├── vue.py # Manages the graphical interface (view) ├── testercode.py # Optional test/debugging script
 
 
 ## Features
