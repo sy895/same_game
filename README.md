@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3e905ce1-48a2-4c79-9393-f60f3352b00b)# Same Game
+# Same Game
 
 A classic puzzle game implemented in Python, inspired by the original Same Game. This project features a clean graphical interface using Tkinter and a well-structured game logic.
 
